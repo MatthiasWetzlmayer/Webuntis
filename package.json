@@ -1,0 +1,15 @@
+{
+  "name": "webuntis_backend",
+  "version": "1.0.0",
+  "description": "Foi geiler Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.5.1",
+    "webuntis": "^1.13.2"
+  }
+}
